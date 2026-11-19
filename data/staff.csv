@@ -1,0 +1,9 @@
+worker,skill,site_range,weekly_slots,deadline_days
+w1,youth,s1,6,5
+w2,general,s2,8,7
+w3,senior,s3,4,3
+w4,youth,s0,6,5
+w5,general,s1,8,7
+w6,senior,s2,4,3
+w7,youth,s3,6,5
+w8,general,s0,8,7
